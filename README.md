@@ -1,0 +1,1 @@
+This is the Asset Repository for the [Vanilla Panorma +](https://github.com/bandido-gaming/vanilla-panorama-plus) Minecraft Resource Pack, here we Class every Panorama File and Map for Better Colaboration in The Project. Also here is our [Progress Tracking Sheets](https://docs.google.com/spreadsheets/d/1pN8Wpvxt0Stt1Pqa3ScsRSd5hq2uKEP9c_vXmu_Oy80/edit?usp=sharing).
